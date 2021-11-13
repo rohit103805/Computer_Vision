@@ -1,0 +1,1 @@
+With this code, you can scan any QR Code or Bar code very easily !
